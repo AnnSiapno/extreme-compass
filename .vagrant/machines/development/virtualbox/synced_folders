@@ -1,0 +1,1 @@
+{"nfs":{"/home/extreme_compass/src/":{"nfs":true,"guestpath":"/home/extreme_compass/src","hostpath":"/Users/annsiapno/Documents/Extreme Compass/extreme_compass_official","disabled":false,"type":"nfs","__vagrantfile":true,"map_uid":501,"map_gid":20,"nfs_udp":true,"nfs_version":3,"uuid":"1641968926"}}}
